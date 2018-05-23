@@ -1,0 +1,342 @@
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Online Shopping App\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Sunil\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AjaxControlToolkit.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\Bootstrap_online_shopping\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\skaiser\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Rayet\Desktop\E-commerce-Site-ASP.NET-master\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\skaiser\Desktop\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+G:\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+G:\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll
+G:\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.pdb
+G:\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+G:\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\MR. Pizza\Online Shopping Backup\bin\EntityFramework.dll
+G:\MR. Pizza\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\MR. Pizza\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+G:\MR. Pizza\Online Shopping Backup\bin\System.Web.Providers.dll
+G:\MR. Pizza\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+G:\MR. Pizza\Online Shopping Backup\bin\EntityFramework.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+G:\MR. Pizza\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\MR. Pizza\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+G:\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+G:\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\Online Shopping Backup.dll.config
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\Online Shopping Backup.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\Online Shopping Backup.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.Core.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\EntityFramework.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\System.Web.Providers.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\AjaxControlToolkit.pdb
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\EntityFramework.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.Core.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\obj\Debug\Bootstrap_online shoping.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\obj\Debug\Online Shopping Backup.dll
+C:\Users\Bdjobs\Desktop\Pizza\MR. Pizza Final\Online Shopping Backup\obj\Debug\Online Shopping Backup.pdb
